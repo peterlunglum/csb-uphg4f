@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://peterlunglum.github.io/csb-uphg4f/static/css/main.0d58223e.chunk.css",
+    "main.js": "https://peterlunglum.github.io/csb-uphg4f/static/js/main.6197c097.chunk.js",
+    "main.js.map": "https://peterlunglum.github.io/csb-uphg4f/static/js/main.6197c097.chunk.js.map",
+    "runtime-main.js": "https://peterlunglum.github.io/csb-uphg4f/static/js/runtime-main.5c25ae67.js",
+    "runtime-main.js.map": "https://peterlunglum.github.io/csb-uphg4f/static/js/runtime-main.5c25ae67.js.map",
+    "static/js/2.f0160d7c.chunk.js": "https://peterlunglum.github.io/csb-uphg4f/static/js/2.f0160d7c.chunk.js",
+    "static/js/2.f0160d7c.chunk.js.map": "https://peterlunglum.github.io/csb-uphg4f/static/js/2.f0160d7c.chunk.js.map",
+    "index.html": "https://peterlunglum.github.io/csb-uphg4f/index.html",
+    "static/css/main.0d58223e.chunk.css.map": "https://peterlunglum.github.io/csb-uphg4f/static/css/main.0d58223e.chunk.css.map",
+    "static/js/2.f0160d7c.chunk.js.LICENSE.txt": "https://peterlunglum.github.io/csb-uphg4f/static/js/2.f0160d7c.chunk.js.LICENSE.txt",
+    "static/media/image1.808833ab.jpeg": "https://peterlunglum.github.io/csb-uphg4f/static/media/image1.808833ab.jpeg",
+    "static/media/image2.d6e2aa99.jpeg": "https://peterlunglum.github.io/csb-uphg4f/static/media/image2.d6e2aa99.jpeg",
+    "static/media/image3.68c54325.jpeg": "https://peterlunglum.github.io/csb-uphg4f/static/media/image3.68c54325.jpeg",
+    "static/media/image4.a508b42c.jpeg": "https://peterlunglum.github.io/csb-uphg4f/static/media/image4.a508b42c.jpeg",
+    "static/media/image5.b53cf11e.jpeg": "https://peterlunglum.github.io/csb-uphg4f/static/media/image5.b53cf11e.jpeg",
+    "static/media/image6.03053c00.jpeg": "https://peterlunglum.github.io/csb-uphg4f/static/media/image6.03053c00.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c25ae67.js",
+    "static/js/2.f0160d7c.chunk.js",
+    "static/css/main.0d58223e.chunk.css",
+    "static/js/main.6197c097.chunk.js"
+  ]
+}
